@@ -95,8 +95,6 @@ D:/project/52840sample/central_and_peripheral_hr/build/zephyr/subsys/fb/CMakeFil
 D:/project/52840sample/central_and_peripheral_hr/build/zephyr/subsys/fb/CMakeFiles/rebuild_cache.dir
 D:/project/52840sample/central_and_peripheral_hr/build/zephyr/subsys/fs/CMakeFiles/edit_cache.dir
 D:/project/52840sample/central_and_peripheral_hr/build/zephyr/subsys/fs/CMakeFiles/rebuild_cache.dir
-D:/project/52840sample/central_and_peripheral_hr/build/zephyr/subsys/fs/nvs/CMakeFiles/edit_cache.dir
-D:/project/52840sample/central_and_peripheral_hr/build/zephyr/subsys/fs/nvs/CMakeFiles/rebuild_cache.dir
 D:/project/52840sample/central_and_peripheral_hr/build/zephyr/subsys/ipc/CMakeFiles/edit_cache.dir
 D:/project/52840sample/central_and_peripheral_hr/build/zephyr/subsys/ipc/CMakeFiles/rebuild_cache.dir
 D:/project/52840sample/central_and_peripheral_hr/build/zephyr/subsys/logging/CMakeFiles/edit_cache.dir
@@ -169,9 +167,6 @@ D:/project/52840sample/central_and_peripheral_hr/build/zephyr/drivers/usb/CMakeF
 D:/project/52840sample/central_and_peripheral_hr/build/zephyr/drivers/usb/CMakeFiles/rebuild_cache.dir
 D:/project/52840sample/central_and_peripheral_hr/build/zephyr/drivers/usb_c/CMakeFiles/edit_cache.dir
 D:/project/52840sample/central_and_peripheral_hr/build/zephyr/drivers/usb_c/CMakeFiles/rebuild_cache.dir
-D:/project/52840sample/central_and_peripheral_hr/build/zephyr/drivers/adc/CMakeFiles/drivers__adc.dir
-D:/project/52840sample/central_and_peripheral_hr/build/zephyr/drivers/adc/CMakeFiles/edit_cache.dir
-D:/project/52840sample/central_and_peripheral_hr/build/zephyr/drivers/adc/CMakeFiles/rebuild_cache.dir
 D:/project/52840sample/central_and_peripheral_hr/build/zephyr/drivers/clock_control/CMakeFiles/drivers__clock_control.dir
 D:/project/52840sample/central_and_peripheral_hr/build/zephyr/drivers/clock_control/CMakeFiles/edit_cache.dir
 D:/project/52840sample/central_and_peripheral_hr/build/zephyr/drivers/clock_control/CMakeFiles/rebuild_cache.dir
@@ -196,10 +191,6 @@ D:/project/52840sample/central_and_peripheral_hr/build/zephyr/drivers/led/CMakeF
 D:/project/52840sample/central_and_peripheral_hr/build/zephyr/drivers/pinctrl/CMakeFiles/edit_cache.dir
 D:/project/52840sample/central_and_peripheral_hr/build/zephyr/drivers/pinctrl/CMakeFiles/drivers__pinctrl.dir
 D:/project/52840sample/central_and_peripheral_hr/build/zephyr/drivers/pinctrl/CMakeFiles/rebuild_cache.dir
-D:/project/52840sample/central_and_peripheral_hr/build/zephyr/drivers/sensor/CMakeFiles/edit_cache.dir
-D:/project/52840sample/central_and_peripheral_hr/build/zephyr/drivers/sensor/CMakeFiles/rebuild_cache.dir
-D:/project/52840sample/central_and_peripheral_hr/build/zephyr/drivers/sensor/nrf5/CMakeFiles/edit_cache.dir
-D:/project/52840sample/central_and_peripheral_hr/build/zephyr/drivers/sensor/nrf5/CMakeFiles/rebuild_cache.dir
 D:/project/52840sample/central_and_peripheral_hr/build/zephyr/drivers/serial/CMakeFiles/drivers__serial.dir
 D:/project/52840sample/central_and_peripheral_hr/build/zephyr/drivers/serial/CMakeFiles/edit_cache.dir
 D:/project/52840sample/central_and_peripheral_hr/build/zephyr/drivers/serial/CMakeFiles/rebuild_cache.dir
@@ -266,16 +257,11 @@ D:/project/52840sample/central_and_peripheral_hr/build/modules/nrf/modules/CMake
 D:/project/52840sample/central_and_peripheral_hr/build/modules/nrf/modules/CMakeFiles/rebuild_cache.dir
 D:/project/52840sample/central_and_peripheral_hr/build/modules/nrf/drivers/CMakeFiles/edit_cache.dir
 D:/project/52840sample/central_and_peripheral_hr/build/modules/nrf/drivers/CMakeFiles/rebuild_cache.dir
-D:/project/52840sample/central_and_peripheral_hr/build/modules/nrf/drivers/sensor/CMakeFiles/edit_cache.dir
-D:/project/52840sample/central_and_peripheral_hr/build/modules/nrf/drivers/sensor/CMakeFiles/rebuild_cache.dir
 D:/project/52840sample/central_and_peripheral_hr/build/modules/nrf/drivers/mpsl/CMakeFiles/edit_cache.dir
 D:/project/52840sample/central_and_peripheral_hr/build/modules/nrf/drivers/mpsl/CMakeFiles/rebuild_cache.dir
 D:/project/52840sample/central_and_peripheral_hr/build/modules/nrf/drivers/mpsl/clock_control/CMakeFiles/..__nrf__drivers__mpsl__clock_control.dir
 D:/project/52840sample/central_and_peripheral_hr/build/modules/nrf/drivers/mpsl/clock_control/CMakeFiles/edit_cache.dir
 D:/project/52840sample/central_and_peripheral_hr/build/modules/nrf/drivers/mpsl/clock_control/CMakeFiles/rebuild_cache.dir
-D:/project/52840sample/central_and_peripheral_hr/build/modules/nrf/drivers/mpsl/temp_nrf5/CMakeFiles/edit_cache.dir
-D:/project/52840sample/central_and_peripheral_hr/build/modules/nrf/drivers/mpsl/temp_nrf5/CMakeFiles/..__nrf__drivers__mpsl__temp_nrf5.dir
-D:/project/52840sample/central_and_peripheral_hr/build/modules/nrf/drivers/mpsl/temp_nrf5/CMakeFiles/rebuild_cache.dir
 D:/project/52840sample/central_and_peripheral_hr/build/modules/nrf/drivers/hw_cc310/CMakeFiles/..__nrf__drivers__hw_cc310.dir
 D:/project/52840sample/central_and_peripheral_hr/build/modules/nrf/drivers/hw_cc310/CMakeFiles/edit_cache.dir
 D:/project/52840sample/central_and_peripheral_hr/build/modules/nrf/drivers/hw_cc310/CMakeFiles/rebuild_cache.dir

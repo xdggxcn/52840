@@ -2,7 +2,7 @@
  * @Author: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
  * @Date: 2023-07-11 17:58:23
  * @LastEditors: xdggxcn 460909495@qq.com
- * @LastEditTime: 2023-07-15 01:34:39
+ * @LastEditTime: 2023-07-16 00:04:50
  * @FilePath: \central_and_peripheral_hr\src\user_driver\src\led.c
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * 
@@ -42,7 +42,7 @@ void blinky_thread(void)
 		k_sleep(K_MSEC(500));
 		gpio_pin_set_dt(&led, 0);
 		k_sleep(K_MSEC(500));	
-		printk("xdg\n");	
+		// printk("xdg\n");	
 	}
 }
 K_THREAD_DEFINE(blinky_thread_id, 1024, blinky_thread, NULL, NULL,

@@ -69,11 +69,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/project/52840sample/central_and_peripheral_hr/build/zephyr/drivers/adc/cmake_install.cmake")
-endif()
-
-if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for the subdirectory.
   include("D:/project/52840sample/central_and_peripheral_hr/build/zephyr/drivers/clock_control/cmake_install.cmake")
 endif()
 
@@ -110,11 +105,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
   include("D:/project/52840sample/central_and_peripheral_hr/build/zephyr/drivers/pinctrl/cmake_install.cmake")
-endif()
-
-if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for the subdirectory.
-  include("D:/project/52840sample/central_and_peripheral_hr/build/zephyr/drivers/sensor/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)

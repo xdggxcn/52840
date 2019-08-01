@@ -14,9 +14,24 @@ include_directories(
     ${user_driver_dir}/inc
 )
 
+include_directories(
+  app/demo_kernel_code/inc
+  app/gh3221lib
+)
+
 set(SRC_LIST
         ${user_driver_dir}/src/led.c
         ${user_driver_dir}/src/buttons.c
+        app/demo_kernel_code/src/gh3x2x_demo_hook.c
+        app/demo_kernel_code/src/gh3x2x_demo_protocol.c
+        app/demo_kernel_code/src/gh3x2x_demo_reg_array.c
+        app/demo_kernel_code/src/gh3x2x_demo_soft_adt.c
+        app/demo_kernel_code/src/gh3x2x_demo_user.c
+        app/demo_kernel_code/src/gh3x2x_demo.c        
+        app/gh3221lib/libgh3x2x_drv_cortexM4l_band_gcc_hard_agc.a
+        app/gh3221lib/libgh3x2x_drv_cortexM4l_band_gcc_hard_ecg.a
+        app/gh3221lib/libgh3x2x_drv_cortexM4l_band_gcc_hard_kernel.a
+        app/gh3221lib/libgh3x2x_drv_cortexM4l_band_gcc_hard_zip.a        
          )
 
 
